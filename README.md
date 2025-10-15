@@ -67,8 +67,20 @@ Click the link to access the full Power BI Report [Click here](https://app.power
 ### Crashes by Crash hour
 - The hour with the most crashes is 17:00 across the ten years.
 
+## Recommendations
+- The measures taken to reduce the number of crashes from 2020 should be maintained.
+- There should be more education and sensitization about the need to obey traffic rules and punishment should be given to defaulters.
+- In hot months like October, May, June and July, more road safety should be implemented and sensitization increased.
+- Traffic ways should be divided properly so as to have a good demarcation between incoming vehicles and outgoing vehicles
+- There should be more investigation into why crashes are more between the hours 15:00 to 17:00 and then proper measures be implemented.
 
+## Tools Used
+- Power Query for data cleaning and transformation
+- Power BI for visualization and analysis
+- Google docs for reporting.
 
+## Conclusion
+This project was done using Power BI on Metropolis Traffic safety and gave insights into their KPIs, contributory causes of crashes, monthly crash trend, crash by the most severe crash, crash by traffic way type, weather conditions and their effect on crashes and crash by the hour.
 
 
 
