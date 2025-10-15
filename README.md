@@ -19,5 +19,34 @@ The analysis is based on a consolidated dataset of over 209,000 cases of acciden
 ## Data Preview
 ![data preview](data-overview.png)
 
+## Key Findings
+- There has been a small but steady decrease in crashes after 2019.
+- The highest contributors of crashes have consistently been those that fall under “Unable to determine”.
+- Most of the accidents fall into “No indication of injury”.
+- October is the month with the most crashes.
+- The traffic way types that pose high risk are roadways with no divide.
+- The peak incident time is between 15:00 and 17:00.
+- Most crashes occur in clear weather.
+
+## Dashboard
+![Dashboard](dashoard.png)
+
+## Link to Power BI Report
+Click the link to access the full Power BI Report [Click here](https://app.powerbi.com/view?r=eyJrIjoiZjEzYzYzZDAtYjVhMS00YjE1LThkYzItMDQwMmEzYjMzMmI5IiwidCI6IjA3MDQxNTMxLWM0YjgtNGM0MS05Y2RlLWNmNjQ2MzViYjkwYyJ9 )
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
