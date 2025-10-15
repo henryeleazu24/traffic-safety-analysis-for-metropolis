@@ -17,5 +17,7 @@ The objectives of the analysis are:
 The analysis is based on a consolidated dataset of over 209,000 cases of accidents and 24  columns from 2016 to 2025. It is a record of all accidents that occurred within the Metropolis.
 
 ## Data Preview
-![data-overview](data-overview.png)
+![data preview](data-overview.png)
+
+
 
