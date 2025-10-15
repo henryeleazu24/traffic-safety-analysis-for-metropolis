@@ -1,2 +1,2 @@
-# traffic-safety-analysis-for-metropolis
-This project was done on traffic safety for metropolis on power bi to find their crash trends and also give insights to their mayor and other stakeholders
+# Traffic safety Analysis Report for Metropolis (2016- 2025)
+![traffic-header](traffic-header.jpg)
