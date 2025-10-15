@@ -12,3 +12,10 @@ The objectives of the analysis are:
 - To identify key trends in traffic crashes over the 10-year period.
 - To analyze the primary causes and types of crashes that lead to the most severe outcomes.
 - To provide actionable insights to inform public safety campaigns, police enforcement, and infrastructure investments.
+
+## Data Overview
+The analysis is based on a consolidated dataset of over 209,000 cases of accidents and 24  columns from 2016 to 2025. It is a record of all accidents that occurred within the Metropolis.
+
+## Data Preview
+![data-overview](data-overview.PNG)
+
