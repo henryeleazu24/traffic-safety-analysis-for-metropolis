@@ -6,3 +6,9 @@ The analysis was conducted to evaluate the traffic safety for Metropolis from 20
 
 ## Business Context
 The Mayor of Metropolis requested a data-driven report to understand traffic crash patterns from the last decade to prioritize safety initiatives and justify next year's budget. The goal was to transform raw crash data into an insightful, interactive Power BI report that tells a clear story and provides actionable recommendations for leadership.
+
+## Objectives
+The objectives of the analysis are:
+- To identify key trends in traffic crashes over the 10-year period.
+- To analyze the primary causes and types of crashes that lead to the most severe outcomes.
+- To provide actionable insights to inform public safety campaigns, police enforcement, and infrastructure investments.
