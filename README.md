@@ -29,7 +29,7 @@ The analysis is based on a consolidated dataset of over 209,000 cases of acciden
 - Most crashes occur in clear weather.
 
 ## Dashboard
-![Dashboard](dashoard.PNG)
+![Dashboard](dashboard.PNG)
 
 ## Link to Power BI Report
 Click the link to access the full Power BI Report [Click here](https://app.powerbi.com/view?r=eyJrIjoiZjEzYzYzZDAtYjVhMS00YjE1LThkYzItMDQwMmEzYjMzMmI5IiwidCI6IjA3MDQxNTMxLWM0YjgtNGM0MS05Y2RlLWNmNjQ2MzViYjkwYyJ9 )
